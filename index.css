@@ -1,0 +1,17 @@
+div{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: green;
+    margin-top: 200px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+img { 
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+   }
